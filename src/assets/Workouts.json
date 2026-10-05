@@ -1,0 +1,124 @@
+[
+  {
+    "id": "workout-001",
+    "date": "2026-09-28",
+    "type": "strength",
+    "durationMinutes": 45,
+    "caloriesBurned": 320,
+    "exercises": [
+      { "name": "Squats", "sets": 3, "reps": 10, "weightKg": 40 },
+      { "name": "Bench Press", "sets": 3, "reps": 8, "weightKg": 35 },
+      { "name": "Dumbbell Row", "sets": 3, "reps": 12, "weightKg": 12 }
+    ],
+    "notes": "Steady session; focused on form."
+  },
+  {
+    "id": "workout-002",
+    "date": "2026-09-26",
+    "type": "cardio",
+    "durationMinutes": 30,
+    "caloriesBurned": 280,
+    "exercises": [
+      { "name": "Running", "distanceKm": 4.2, "paceMinutesPerKm": 7.1 }
+    ],
+    "notes": "Easy outdoor run."
+  },
+  {
+    "id": "workout-003",
+    "date": "2026-09-24",
+    "type": "mobility",
+    "durationMinutes": 20,
+    "caloriesBurned": 75,
+    "exercises": [
+      { "name": "Hip Flexor Stretch", "durationSeconds": 60, "sets": 2 },
+      { "name": "World's Greatest Stretch", "reps": 8, "sets": 2 },
+      { "name": "Cat-Cow", "reps": 10, "sets": 2 }
+    ],
+    "notes": "Recovery and mobility work."
+  },
+  {
+    "id": "workout-004",
+    "date": "2026-09-22",
+    "type": "strength",
+    "durationMinutes": 50,
+    "caloriesBurned": 350,
+    "exercises": [
+      { "name": "Deadlift", "sets": 3, "reps": 8, "weightKg": 50 },
+      { "name": "Overhead Press", "sets": 3, "reps": 10, "weightKg": 20 },
+      { "name": "Lat Pulldown", "sets": 3, "reps": 12, "weightKg": 30 }
+    ],
+    "notes": "Upper and lower body strength."
+  },
+  {
+    "id": "workout-005",
+    "date": "2026-09-20",
+    "type": "cardio",
+    "durationMinutes": 35,
+    "caloriesBurned": 310,
+    "exercises": [
+      { "name": "Cycling", "distanceKm": 12.5, "paceMinutesPerKm": 2.8 }
+    ],
+    "notes": "Moderate stationary bike ride."
+  },
+  {
+    "id": "workout-006",
+    "date": "2026-09-18",
+    "type": "strength",
+    "durationMinutes": 40,
+    "caloriesBurned": 290,
+    "exercises": [
+      { "name": "Lunges", "sets": 3, "reps": 10, "weightKg": 10 },
+      { "name": "Push-Ups", "sets": 3, "reps": 12 },
+      { "name": "Plank", "sets": 3, "durationSeconds": 45 }
+    ],
+    "notes": "Bodyweight focused session."
+  },
+  {
+    "id": "workout-007",
+    "date": "2026-09-16",
+    "type": "cardio",
+    "durationMinutes": 25,
+    "caloriesBurned": 240,
+    "exercises": [
+      { "name": "Brisk Walking", "distanceKm": 3.0, "paceMinutesPerKm": 8.3 }
+    ],
+    "notes": "Comfortable paced neighborhood walk."
+  },
+  {
+    "id": "workout-008",
+    "date": "2026-09-14",
+    "type": "strength",
+    "durationMinutes": 55,
+    "caloriesBurned": 380,
+    "exercises": [
+      { "name": "Leg Press", "sets": 4, "reps": 10, "weightKg": 80 },
+      { "name": "Romanian Deadlift", "sets": 3, "reps": 10, "weightKg": 35 },
+      { "name": "Calf Raises", "sets": 3, "reps": 15, "weightKg": 25 }
+    ],
+    "notes": "Lower body strength day."
+  },
+  {
+    "id": "workout-009",
+    "date": "2026-09-12",
+    "type": "cardio",
+    "durationMinutes": 28,
+    "caloriesBurned": 265,
+    "exercises": [
+      { "name": "Rowing Machine", "distanceKm": 5.0, "paceMinutesPerKm": 5.6 }
+    ],
+    "notes": "Short intervals with easy recovery periods."
+  },
+  {
+    "id": "workout-010",
+    "date": "2026-09-10",
+    "type": "mobility",
+    "durationMinutes": 22,
+    "caloriesBurned": 85,
+    "exercises": [
+      { "name": "Hamstring Stretch", "durationSeconds": 45, "sets": 2 },
+      { "name": "Thoracic Rotations", "reps": 10, "sets": 2 },
+      { "name": "Child's Pose", "durationSeconds": 60, "sets": 2 }
+    ],
+    "notes": "Light recovery session after training."
+  }
+]
